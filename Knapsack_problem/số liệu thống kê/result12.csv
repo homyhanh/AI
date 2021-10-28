@@ -1,0 +1,7 @@
+,Testcase_Name,Number,Total_Value,Total_Weight,Is_Solution_Optimal
+0,12Circle,50,270298,12828,Optimal solution
+1,12Circle,100,492997,23397,Optimal solution
+2,12Circle,200,976234,46331,Optimal solution
+3,12Circle,500,2612646,123993,Inconclusive solution
+4,12Circle,1000,5263027,249776,Inconclusive solution
+5,12Circle,2000,10259610,486908,Optimal solution

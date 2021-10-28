@@ -1,0 +1,7 @@
+,Testcase_Name,Number,Total_Value,Total_Weight,Is_Solution_Optimal
+0,11ProfitCeiling,50,11700,11704,Optimal solution
+1,11ProfitCeiling,100,25050,25067,Inconclusive solution
+2,11ProfitCeiling,200,48978,49000,Optimal solution
+3,11ProfitCeiling,500,118605,118664,Inconclusive solution
+4,11ProfitCeiling,1000,248190,248250,Inconclusive solution
+5,11ProfitCeiling,2000,500730,500906,Inconclusive solution

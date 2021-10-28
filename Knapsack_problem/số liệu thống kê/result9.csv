@@ -1,0 +1,7 @@
+,Testcase_Name,Number,Total_Value,Total_Weight,Is_Solution_Optimal
+0,09SpannerStronglyCorrelated,50,26521,5721,Optimal solution
+1,09SpannerStronglyCorrelated,100,48280,10180,Inconclusive solution
+2,09SpannerStronglyCorrelated,200,81256,18456,Inconclusive solution
+3,09SpannerStronglyCorrelated,500,236360,78660,Inconclusive solution
+4,09SpannerStronglyCorrelated,1000,438041,55941,Inconclusive solution
+5,09SpannerStronglyCorrelated,2000,864488,217888,Optimal solution

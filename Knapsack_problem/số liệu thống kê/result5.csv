@@ -1,0 +1,7 @@
+,Testcase_Name,Number,Total_Value,Total_Weight,Is_Solution_Optimal
+0,05SubsetSum,50,11449,11449,Optimal solution
+1,05SubsetSum,100,24988,24988,Optimal solution
+2,05SubsetSum,200,48605,48605,Optimal solution
+3,05SubsetSum,500,121408,121408,Optimal solution
+4,05SubsetSum,1000,251098,251098,Optimal solution
+5,05SubsetSum,2000,489197,489197,Optimal solution

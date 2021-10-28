@@ -1,0 +1,7 @@
+,Testcase_Name,Number,Total_Value,Total_Weight,Is_Solution_Optimal
+0,01WeaklyCorrelated,50,14125,12715,Optimal solution
+1,01WeaklyCorrelated,100,27933,24637,Optimal solution
+2,01WeaklyCorrelated,200,58934,53370,Optimal solution
+3,01WeaklyCorrelated,500,142267,128452,Optimal solution
+4,01WeaklyCorrelated,1000,282682,256520,Optimal solution
+5,01WeaklyCorrelated,2000,549747,497482,Optimal solution

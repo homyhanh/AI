@@ -1,0 +1,7 @@
+,Testcase_Name,Number,Total_Value,Total_Weight,Is_Solution_Optimal
+0,06UncorrelatedWithSimilarWeights,50,15837,2401289,Optimal solution
+1,06UncorrelatedWithSimilarWeights,100,37000,4902351,Optimal solution
+2,06UncorrelatedWithSimilarWeights,200,75395,9904989,Optimal solution
+3,06UncorrelatedWithSimilarWeights,500,188379,24712460,Inconclusive solution
+4,06UncorrelatedWithSimilarWeights,1000,367309,49524430,Optimal solution
+5,06UncorrelatedWithSimilarWeights,2000,748863,99049795,Inconclusive solution

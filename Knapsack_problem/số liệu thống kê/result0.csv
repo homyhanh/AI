@@ -1,0 +1,7 @@
+,Testcase_Name,Number,Total_Value,Total_Weight,Is_Solution_Optimal
+0,00Uncorrelated,50,19269,12608,Optimal solution
+1,00Uncorrelated,100,41562,24536,Optimal solution
+2,00Uncorrelated,200,81520,50733,Optimal solution
+3,00Uncorrelated,500,205790,121387,Optimal solution
+4,00Uncorrelated,1000,415902,247778,Optimal solution
+5,00Uncorrelated,2000,827768,485687,Optimal solution
